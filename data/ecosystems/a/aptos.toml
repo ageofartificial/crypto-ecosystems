@@ -3,6 +3,7 @@ title = "Aptos"
 
 sub_ecosystems = [
   "Abel Finance",
+  "Age of Artificial",
   "AnimeSwap",
   "Apscan",
   "APT ID",
@@ -1020,6 +1021,18 @@ url = "https://github.com/agdex-io/agdex-intro"
 
 [[repo]]
 url = "https://github.com/agdex-io/perpetual-contract"
+missing = true
+
+[[repo]]
+url = "https://github.com/ageofartificial/Ai-Lyon-Telegram-Chatbot"
+missing = true
+
+[[repo]]
+url = "https://github.com/ageofartificial/AOA-Games-Telegram-Bot"
+missing = true
+
+[[repo]]
+url = "https://github.com/ageofartificial/AOA-Games-Website"
 missing = true
 
 [[repo]]
